@@ -85,7 +85,7 @@ The analysis is implemented in a **Jupyter Notebook** and focuses on data prepro
 ### Key Outcomes:
 
 1. **Model Performance**:
-   - The final model achieved [INSERT FINAL ACCURACY]% accuracy.
+   - The final model achieved 72.43% accuracy.
    - Training and validation loss/accuracy trends were analyzed for optimization.
 
 2. **Model Optimization**:
